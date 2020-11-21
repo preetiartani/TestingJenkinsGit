@@ -1,6 +1,6 @@
 package com.lti.entity;
 
-public class Student {
+class Student {
 	int stuId;
 	String stuName;
 	double stuFees;
