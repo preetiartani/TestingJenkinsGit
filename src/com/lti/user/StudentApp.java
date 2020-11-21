@@ -1,8 +1,8 @@
 package com.lti.user;
 
-import com.lti.entity.Student;
+import com.lti.entity.*;
 
-public class StudentApp {
+class StudentApp {
 	public static void main(String[] args) {
 		Student s1 = new Student();
 		s1.setStuId(101);
