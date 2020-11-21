@@ -1,4 +1,4 @@
-Public class TestingApp{
+class TestingApp{
 
 public static void main(String args[]){
 
